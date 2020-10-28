@@ -63,9 +63,9 @@ Errors are returned as JSON objects in the following format:
 
 The API will return three error types when requests fail:
 
-405: Method Not Allowed
-404: Not found it
-422: Unprocessable
+- 405: Method Not Allowed
+- 404: Not found it
+- 422: Unprocessable
 
 ### Endpoints
 
